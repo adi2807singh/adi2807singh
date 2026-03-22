@@ -1,6 +1,6 @@
 # About-Me
 <h2 align="center">Hi there 👋, I'm Aditya Kumar Singh aka <a href="https://github.com/adi2807singh" target="_blank">adi2807singh</h2>
-<h3 align="center">Wiproite 💼 || Programmer 💻 || Information Technology 👨‍🎓 || Enthusiast 🧑‍💻 || Explorer 🔎 || Learner 🌱</h3>
+<h3 align="center">Infosys 💼 || Programmer 💻 || Information Technology 👨‍🎓 || Enthusiast 🧑‍💻 || Explorer 🔎 || Learner 🌱</h3>
 
 
 <p align="center">Information Technology undergraduate from National Institute of Science & Technology,Berhampur. Passionate about implementing and launching new projects.</p>
@@ -10,7 +10,7 @@
 
 ### Overview-About-Me:-
 
-<h5>- 💼 I’m currently Working at <strong>Wipro</strong></h5>
+<h5>- 💼 I’m currently Working at <strong>Infosys</strong></h5>
 
 <h5>- 🌱 I’m currently Learning **DotNet,Azure,JavaScript**</h5>
 
